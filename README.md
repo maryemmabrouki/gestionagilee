@@ -1,4 +1,4 @@
 # gestionagilee
 maryem mabrouki 2eme année grp B
 
-la gestion de projecttt
+la gestion de project
